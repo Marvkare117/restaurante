@@ -4,4 +4,4 @@ RUN mvn clean package -DskipTests
 
 FROM openjdk:17.0.1-jdk-slim
 EXPOSE 8080
-ENTRYPOINT [ "java","-jar","deno.jar" ]
+ENTRYPOINT [ "java","-jar" ]
