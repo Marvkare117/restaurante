@@ -1,5 +1,4 @@
 com\alexandertutoriales\ecommerce\service\utlis\Global.class
-com\alexandertutoriales\ecommerce\service\mapper\CategoriaMapperImpl.class
 com\alexandertutoriales\ecommerce\service\repository\PlatilloRepository.class
 com\alexandertutoriales\ecommerce\service\controller\CategoriaController.class
 com\alexandertutoriales\ecommerce\service\config\FileStorageProperties.class
@@ -32,8 +31,8 @@ com\alexandertutoriales\ecommerce\service\service\DocumentoAlmacenadoService.cla
 com\alexandertutoriales\ecommerce\service\repository\CategoriaRepository.class
 com\alexandertutoriales\ecommerce\service\exception\MyFileNotFoundException.class
 com\alexandertutoriales\ecommerce\service\mapper\DocumentoAlmacenadoMapper.class
-com\alexandertutoriales\ecommerce\service\mapper\DocumentoAlmacenadoMapperImpl.class
 com\alexandertutoriales\ecommerce\service\mapper\CategoriaMapper.class
+com\alexandertutoriales\ecommerce\service\App$Myconfiguration$1.class
 com\alexandertutoriales\ecommerce\service\exception\UnprocessableEntityException.class
 com\alexandertutoriales\ecommerce\service\service\DetallePedidoService.class
 com\alexandertutoriales\ecommerce\service\entity\Platillo.class
@@ -41,6 +40,7 @@ com\alexandertutoriales\ecommerce\service\service\PedidoService.class
 com\alexandertutoriales\ecommerce\service\spec\CategoriaSpec.class
 com\alexandertutoriales\ecommerce\service\entity\dto\CategoriaDto.class
 com\alexandertutoriales\ecommerce\service\exception\GenericExceptionHandler.class
+com\alexandertutoriales\ecommerce\service\App$Myconfiguration.class
 com\alexandertutoriales\ecommerce\service\service\ClienteService.class
 com\alexandertutoriales\ecommerce\service\entity\DetallePedido.class
 com\alexandertutoriales\ecommerce\service\repository\ClienteRepository.class
